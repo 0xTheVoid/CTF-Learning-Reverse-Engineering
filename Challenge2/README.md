@@ -60,13 +60,13 @@ Since the above tools didn’t give us the flag, it’s time to examine the bina
 
    Converting this hex to ASCII, you’ll notice that every third byte is part of a readable sequence, forming the following flag:
 
-       VOID{D3LV3_INTO_C0D3}
+       VOID{D3LV3INTO_C0D3}
 
 ### Step 5: Extracting the Flag
 
 By reading only the relevant bytes and ignoring the padding bytes (00), you can reconstruct the flag as follows:
 
-**Flag: `VOID{D3LV3_INTO_C0D3}`**
+**Flag: `VOID{D3LV3INTO_C0D3}`**
 
 ---
 
@@ -150,13 +150,13 @@ Ensuite, voyons si `ltrace` ou `strace` nous donnent des informations sur les ap
 
    En convertissant cet hexadécimal en ASCII, vous remarquerez que chaque troisième octet fait partie d’une séquence lisible, formant le flag suivant :
 
-       VOID{D3LV3_INTO_C0D3}
+       VOID{D3LV3INTO_C0D3}
 
 ### Étape 5 : Extraire le Flag
 
 En lisant uniquement les octets pertinents et en ignorant les octets de remplissage (`00`), vous pouvez reconstituer le flag comme suit :
 
-**Flag :** `VOID{D3LV3_INTO_C0D3}`
+**Flag :** `VOID{D3LV3INTO_C0D3}`
 
 ---
 
