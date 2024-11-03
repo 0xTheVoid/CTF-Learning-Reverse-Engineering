@@ -1,3 +1,5 @@
+![Banner](Assets/Banner_Reverse.png)
+
 # 🏴‍☠️ CTF Learning - Reverse Engineering 🏴‍☠️
 
 Welcome to the **CTF Learning - Reverse Engineering** repository! This project is designed to help beginners dive into the world of reverse engineering through fun and challenging Capture the Flag (CTF) exercises. 🎉
